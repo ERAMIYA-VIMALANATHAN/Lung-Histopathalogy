@@ -1,0 +1,40 @@
+## 🛠️ Requirements
+
+### Software
+
+* Python 3.10+
+* Jupyter Notebook / Kaggle Notebook
+* PyTorch
+* Torchvision
+* NumPy
+* Pandas
+* Scikit-learn
+* Matplotlib
+* Pillow
+
+### Deep Learning
+
+* GhostNet-100
+* Lightweight Transformer Encoder
+* AdamW Optimizer
+* Cosine Annealing Learning Rate Scheduler
+* Cross-Entropy Loss
+* Early Stopping
+* Data Augmentation
+
+### Hardware
+
+* 8 GB RAM or higher
+* Multi-core CPU
+* NVIDIA GPU with CUDA support recommended
+* 10+ GB available storage
+
+### Dataset
+
+* 15,000 lung histopathology images
+* 3 classes:
+
+  * Normal
+  * Adenocarcinoma
+  * Squamous Cell Carcinoma
+* Training, validation, and testing datasets
